@@ -1,5 +1,5 @@
 # JavaScript Demo
-A demonstration of the JavaScript material for [EE491F](https://ee491f.github.io/course-material/ "EE491F Course Webpage")
+A demonstration of the JavaScript material for [EE491F](https://ee491f.github.io/course-material/ "EE491F Course Webpage").  
 Accompanying Video: [https://youtu.be/WCpvskyMKOw
 ](https://youtu.be/WCpvskyMKOw "Getting Started with JavaScript Video")
 
